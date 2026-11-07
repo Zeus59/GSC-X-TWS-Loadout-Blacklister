@@ -39,4 +39,4 @@ Mods are only read, never changed.
 
 ## License
 
-Custom license, see [LICENSE.txt](LICENSE.txt): free to use for non-commercial ARMA purposes, **no modification and no redistribution**.
+Custom license, see [LICENSE](LICENSE): free to use for non-commercial ARMA purposes, **no modification and no redistribution**.
