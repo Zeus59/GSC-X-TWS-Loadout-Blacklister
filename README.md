@@ -1,6 +1,6 @@
 # GSC X TWS Loadout Blacklister
 
-Companion tool for the **TWS X GSC Loadout Editor** mod (Arma Reforger).
+Companion tool for the **GSC X TWS Loadout Editor** mod (Arma Reforger).
 It builds the blacklist for the server: every item prefab from your installed mods that is **not** listed in any arsenal catalog.
 
 ## Requirements
