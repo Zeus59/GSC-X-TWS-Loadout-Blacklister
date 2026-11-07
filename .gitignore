@@ -1,0 +1,4 @@
+# local settings (contain personal paths) and generated output
+Blacklister.json
+native_blocked_auto.txt
+__pycache__/
