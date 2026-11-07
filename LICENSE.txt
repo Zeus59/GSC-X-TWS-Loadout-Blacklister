@@ -1,0 +1,42 @@
+CUSTOM LICENSE - GSC X TWS Loadout Blacklister
+
+Copyright (c) 2026 W4rD4ddy and GSC Zeus. All rights reserved.
+
+This content is made available only for non-commercial end-use in ARMA games,
+without permission to monetize it in any way. Outside of ARMA products this
+license grants no rights whatsoever.
+
+1. PERMITTED USE
+   Anyone may use this content as-is (e.g. run it to generate blacklists for your
+   ARMA server) for non-commercial
+   end-use with ARMA games, subject to the restrictions below.
+
+2. NO MODIFICATION
+   You may not modify, adapt, translate, reverse engineer, decompile,
+   disassemble, or create derivative works based on this content, in whole or
+   in part, unless you are W4rD4ddy or GSC Zeus.
+
+3. NO REDISTRIBUTION
+   You may not copy, share, upload, re-upload, mirror, rebrand, bundle inside
+   another addon, or otherwise redistribute this content, in original or
+   modified form, through the Arma Reforger Workshop, any other platform, or
+   any other means, unless you are W4rD4ddy or GSC Zeus.
+
+4. NO COMMERCIAL USE
+   This content may not be sold, sublicensed, monetized, or used as part of
+   any commercial product or service, under any circumstances.
+
+5. ATTRIBUTION
+   The owners (W4rD4ddy and GSC Zeus) must be credited wherever this content
+   is used.
+
+6. NO WARRANTY
+   This content is provided "as is", without warranty of any kind, express or
+   implied. The owners are not liable for any damages arising from its use.
+
+7. TERMINATION
+   Any use of this content outside the terms of this license immediately and
+   automatically terminates any rights granted herein.
+
+For permission requests outside the scope of this license (e.g. to modify or
+redistribute), contact the owners directly.
